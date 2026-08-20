@@ -1,0 +1,16 @@
+# Core scientific Python
+numpy
+pandas
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter
+jupyter
+notebook
+ipykernel
